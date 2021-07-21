@@ -7,5 +7,5 @@ In the following project, we will conduct experiments in three algorithms. Rando
 
 # files:
 base_algorithm - the random forest algorithm experiments + data preperation
-A More Tolerant Teacher Educates Better Students.ipynb - the deep learning algorithm from the paper by yang(2019) and our improvement + friedman test
-results.xlsx - experiments results (for each data set 10 fold cross validation) + average results (4 spreadsheets)
+\nA More Tolerant Teacher Educates Better Students.ipynb - the deep learning algorithm from the paper by yang(2019) and our improvement + friedman test
+\nresults.xlsx - experiments results (for each data set 10 fold cross validation) + average results (4 spreadsheets)
